@@ -13,10 +13,7 @@ This project demonstrates basic array manipulation and formatting operations in 
 
 ### Task 2: userInfo.js
 - **createUserProfiles**: This function takes two arrays as input: an array of original names and an array of modified names (from Task 1). It returns an array of objects, each containing `originalName`, `modifiedName`, and an auto-incremented `id` starting from 1.
-<<<<<<< HEAD
-=======
 
 
 
 .
->>>>>>> 605dc9081773c6dff501eed67ca28335f7a587f0
